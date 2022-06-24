@@ -1,0 +1,10 @@
+
+Tue Apr 26 14:16:54 2022 :  Blad ! Zla liczba argumentow ! (0) - required: 2.
+Tue May  3 08:58:34 2022 :  Start programu 
+Tue May  3 08:58:34 2022 :  Blad ! Zla liczba argumentow ! (0) - zalecane: 2.
+Fri Jun 24 08:57:42 2022 :  Start programu 
+Fri Jun 24 08:57:42 2022 :  Blad ! Zla liczba argumentow ! (0) - zalecane: 2.
+Fri Jun 24 08:57:55 2022 :  Start programu 
+Fri Jun 24 08:57:55 2022 :  Blad ! Zla liczba argumentow ! (0) - zalecane: 2.
+Fri Jun 24 09:00:50 2022 :  Start programu 
+Fri Jun 24 09:00:50 2022 :  Blad ! Zla liczba argumentow ! (0) - zalecane: 2.
